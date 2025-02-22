@@ -1,0 +1,102 @@
+    1  git config --global user.name "Jenea"
+    2  git config --global user.email gekafoltya@gmail.com
+    3  git clone https://github.com/Dilower/HW_10.git
+    4  git config --global user.name "Jenea"
+    5  git config --global user.email gekafoltya@gmail.com
+    6  git clone https://github.com/Dilower/HW_10.git
+    7  cd HW_10
+    8  touch text_ignore.txt
+    9  nano .gitignore
+   10  git status
+   11  git config --global user.name "Jenea"
+   12  git config --global user.email gekafoltya@gmail.com
+   13  git clone https://github.com/Dilower/HW_10.git
+   14  touch text_ignore.txt
+   15  git config --global user.name "Jenea"
+   16  git config --global user.email gekafoltya@gmail.com
+   17  git clone https://github.com/Dilower/HW_10.git
+   18  cd HW_10
+   19  touch text_ignore.txt
+   20  nano .gitignore
+   21  git status
+   22  git add text_ignore.txt
+   23  git commit -m "ADD txt"
+   24  git commit -m "ADD txt"
+   25  git log
+   26  git restore .gitignore
+   27  git commit -m "ADD txt"
+   28  git add text_ignore.txt
+   29  git commit -m "ADD txt"
+   30  git log
+   31  git checkout -b Developer
+   32  git checkout Developer
+   33  git touch developer_text.txt
+   34  touch developer_text.txt
+   35  git add developer_text.txt
+   36  git commit -b "Add developer txt"
+   37  git commit -m "Add developer txt"
+   38  git nano developer_text.txt
+   39  nano developer_text.txt
+   40  git status
+   41  git restore developer_text.txt
+   42  add developer_text.txt
+   43  git add developer_text.txt
+   44  git status
+   45  git commit -m "Add text in file developer_text.txt"
+   46  git status
+   47  git status
+   48  git commit -m "Add text in file developer_text.txt"
+   49  git status
+   50  git status
+   51  ls
+   52  cd..
+   53  dc..
+   54  git checkout main
+   55  none .gitignore
+   56  ls
+   57  git checkout HW_10
+   58  ls
+   59  git checkout ma9
+   60  ls
+   61  git checkout main
+   62  ls
+   63  cd C:\Users\Dilower\Desktop\HW_10 Git
+   64  ls
+   65  cd decktop 
+   66  cd desktop
+   67  ls
+   68  cd HW_10 Git
+   69  cd HW_10Git
+   70  cd HW_10Git
+   71  git config --global user_name "Jenea"
+   72  git config --global user.name "Jenea"
+   73  git config --global user.email gekafoltya@gmail.com\
+   74  git clone https://github.com/Dilower/HW_10.git
+   75  ls
+   76  cd HW_10
+   77  ls
+   78  touch text_ignore.txt
+   79  nano .gitignore
+   80  ls
+   81  git status
+   82  git add .gitignore
+   83  git commit -m ЖЭ"gitignore updated"
+   84  ls
+   85  git status
+   86  touch main_test.txt
+   87  git add main_test.txt
+   88  git commit -m Ж"main_test.txt was ADD"
+   89  git branch Develop
+   90  git checkout Develop 
+   91  touch develop_test.txt
+   92  nano develop_test.txt
+   93  git status 
+   94  git add develop_test.txt 
+   95  git commit "Add text in file develop_test.txt"
+   96  git commit -m "Add text in file develop_test.txt"
+   97  checkout main 
+   98  get checkout main 
+   99  git checkout main 
+  100  git merge Develop
+  101  git log
+  102  history>command_list.csv
